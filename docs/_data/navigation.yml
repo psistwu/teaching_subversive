@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Introduction
+  link: /other_parts/intro.html
+- name: "Chapter 1"
+  link: /chapters/chap01.html
+- name: "Chapter 2"
+  link: /chapters/chap02.html
+- name: Acknowledgments
+  link: /other_parts/ack.html

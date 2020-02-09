@@ -1,0 +1,1060 @@
+---
+title: The Medium Is the Message, of Course
+chapter: 2
+---
+One of the most dangerous men around at the
+moment---dangerous because
+he seems to be subverting traditional
+assumptions---is Marshall McLuhan.
+Nonetheless, as of this writing
+he is capturing the attention of
+intellectuals and the press
+as few educationists have ever done.
+
+馬素·麥克魯漢可說是當下最具威脅性的人物之一；
+如此斷言是因為他動搖了傳統上我們習以為常的假設。
+儘管如此，在這段文字寫下的同時，
+他從知識界及出版界獲得的注意遠超過大多數的教育家。
+
+One of the reasons is the seeming
+uniqueness of his remarks.
+Another is the unconventional
+manner in which he conducts his reflections.
+And a third is that he is not generally
+thought of as an educationist.
+If he were, he would probably lose a sizable
+portion of his audience.
+Nobody likes a smart educationist.
+Or at least nobody wants to be counted
+among his listeners.
+That is why Jerome Bruner insists on
+being called a psychologist and
+Edgar Friedenberg, a sociologist.
+
+理由之一是他那看似獨特的發言。
+再來是他那新穎的表達方式。
+第三則是他通常不被視為教育家。
+假如他是教育家的話，他將會失去相當比例的聽眾。
+沒有人喜歡聰明的教育家；
+至少，沒有人想成為他的聽眾。
+這也是為什麼傑羅姆·布魯納堅持別人稱他為心理學家，
+而埃德加·福里登伯格則是社會學家。
+
+
+---
+But McLuhan is an operational
+educationist nonetheless.
+Moreover, some of his "probings,"
+as he calls them, are unique mostly
+in their metaphorical verve.
+(For an educationist, he expresses himself
+in an uncommon flow of puns and poetry.)
+Many of his observations are reaffirmations
+of ideas previously expressed by other
+educationists---for example,
+John Dewey and A. N. Whitehead---ideas
+which were, and still are, largely ignored
+by those who could most profit by them.
+
+但就他的所作所為來看，
+麥克魯漢毫無疑問地是一位教育家。
+此外，一些他提出的『探查』，
+在譬喻手法的運用上有著相當獨特的神韻。
+(以一位教育學家來說，
+他在表達中使用的雙關語及詩句多的不尋常。)
+他的許多觀察再次肯定了早先其他教育家，
+像是約翰·杜威及阿爾弗雷德·諾思·懷特黑德，
+表達過的想法。
+然而大多數可能因此受益的人
+都沒有意識到這些想法的重要性。
+過去如此，現在亦然。
+
+We are especially in McLuhan's debt for
+his restatement, in alliterative
+language, of Dewey's belief that
+"we learn what we do."
+McLuhan means much the same thing by
+his famous aphorism,
+"The medium is the message"
+(which for emphasis, fun, and publicity
+he has rephrased,
+"The medium is the message").
+
+我們尤其受惠於麥克魯漢著名的格言：
+『媒介即訊息。』
+他以頭韻的修辭法重新詮釋了杜威相信的
+『所做即所學。』
+（他這麼做是為了強調這個想法的重要性，
+同時增加了趣味性及宣傳性）
+
+From this perspective, one is invited
+to see that the most important impressions
+made on a human nervous system come
+from the character and structure of the
+environment within which the nervous
+system functions; that the environment
+itself conveys the critical and
+dominant messages by controlling the
+perceptions and attitudes of those who
+participate in it.
+
+藉此，他引導人們注意到：
+人類神經系統中最深刻的影響
+來自其所處環境的特性及結構；
+進一步地說，藉由控制參與者的視角及態度，
+環境自身傳達了至為關鍵的訊息。
+
+Dewey stressed that the role an individual
+is assigned in an environment---what
+he is permitted to do---is what
+the individual learns.
+In other words, the medium itself,
+i.e., the environment, is the message.
+"Message" here means the perceptions
+you are allowed to build,
+the attitudes you are entitled to assume,
+the sensitivities you are encouraged to
+developed---almost all of the things
+you learn to see and feel and value.
+You learn them because your environment
+is organized in such a way that it
+permits or encourages or insists that
+you learn them.
+
+杜威強調，環境賦與一個人的角色---他
+所能做的---即是這個人所學的。
+換句話說，媒介或者環境本身就是訊息。
+『訊息』在這裡指的是媒介許可的視角、
+賦予的態度以及鼓勵的感受。
+這幾乎涵蓋了所有你學會怎麼理解、
+怎麼感受以及怎麼衡量事物的方式。
+你學習這些東西是因為你處的環境
+允許、鼓勵甚至要求你去學它們。
+
+
+---
+McLuhan seems to have his most difficult
+moments trying to persuade his audiences
+that a television set or a newspaper or
+an automobile or a Xerox machine can
+usefully be defined as such an environment.
+And even when his audiences suspend
+disbelief long enough to probe with him
+further, McLuhan still must labor to
+persuade that the relevant question to
+ask of such environments is not
+"What's on TV?" or "What's in the newspaper?"
+but "In what ways does the structure or
+process of the medium-environment manipulate
+our senses and attitudes?"
+
+對麥克魯漢來說，他碰上最大的困難似乎是說服聽眾：
+電視機、報紙、汽車和影印機
+皆符合上面提到『環境』的定義。
+即便聽眾暫且相信這件事並隨他深入探討，
+麥克魯漢仍得花上相當的力氣來說服他們：
+需要關切的問題不是『電視在播些什麼？』或
+『報紙在寫些什麼？』而是
+『媒介/環境自身的結構及程序是如何
+操縱我們的感知及態度？』
+
+
+---
+One would think it is much easier to
+persuade an audience that a classroom
+is an environment and that the way
+it is organized carries the burden of what
+people will learn from it.
+Yet, oddly, it isn't.
+Educational discourse, especially among
+the educated, is so laden with
+preconceptions that it is practically
+impossible to introduce an idea that
+does not fit into traditional categories.
+
+有人可能會認為，說服聽眾相信
+『教室是一種環境，而它的組織方式肩負了
+人們可以從中習得哪些東西的責任，』
+要簡單得多。奇怪的是，事實並非如此。
+關於教育的討論，尤其在知識份子之間，總是囿於以下的成見：
+『傳統的教育方式適用於幾乎任何想法的教授與學習。』
+
+
+---
+Consider as a primary case in point the
+notion that a classroom lesson is largely
+made up of two components:
+content and method.
+The content may be trivial or important,
+but it is always thought to be the
+"substance" of the lesson;
+it is what the students are there to "get";
+it is what they are supposed to learn;
+it is what is "covered."
+
+我們用以下的概念作為上面這句話的主要例子：
+課堂主要是由內容和方法兩個部分組成。
+也許瑣碎，也許重要，
+內容一律被視為課程的本質；
+它是學生想要從課堂中得到，
+學生應該要學習的，以及課程涵蓋的東西。
+
+Content, as any syllabus proves,
+exists independently of and prior to the
+students, and is indifferent to the
+media by which it is "transmitted."
+Method, on the other hand, is "merely"
+the manner in which the content is
+presented. The method may be imaginative
+or dull, but it is never more than a
+means of conveying the content.
+It has no content of its own.
+While it may induce excitement or boredom,
+it carries no message---at least none that
+would be asked about on the College Boards,
+which is to say, worthy of comment.
+
+如同任何課程大綱證實，
+內容是獨立且優先於學生的存在，
+而且它不在乎透過什麼樣的媒介傳播。
+與此相對，
+不論是有創意的還是枯燥的，
+方法僅僅是傳遞內容的手段。
+它不具有自身的內容。
+即便它能令學生感到興𡚒或無聊，
+它都不帶有訊息---就算有，
+那也不會是任何人想從大學理事會打聽的東西。
+換言之，方法本身不帶有任何值得討論的訊息。
+
+
+---
+To our knowledge, all schools of education
+and teacher-training institutions in
+the United States are organized around
+the idea that content and method are
+separate in the manner we have described.
+Perhaps the most important message thus
+communicated to teachers in training is
+that this separation is real, useful,
+and urgent, and that it ought to be
+maintained in the schools.
+
+就我們所知，美國所有的教育學院和講師培訓機構
+的組織方式都是建立在前述的分割上。
+這當中傳達給培訓教師最重要的訊息可能是：
+這樣的分割是真實的、有用的和迫切的，同時
+應當在學校中被強調。
+
+A secondary message is that, while
+the "content" and "method" are
+separate, they are not equal.
+Everyone knows that the "real" courses
+are the content courses,
+the kind of which James Bryant Conant
+is so fond: The Heritage of Greece and Rome,
+Calculus, Elizabethan Drama, The Civil War.
+
+第二個訊息是：當內容和方法分割的同時，
+兩者的地位並不平等。
+每個人都知道
+『真正的』課程是關於內容的課程，
+像是古希臘和羅馬的傳承、
+微積分、伊莉莎白時代的戲劇、南北戰爭。
+這些正是詹姆斯·布萊恩特·科南特特別感興趣的一類課程。
+
+The "fake" courses are the methods courses,
+those conspiracies of emptiness which are
+universally ridiculed because their
+finest ambition is to instruct in how
+to write lesson plans, when to use
+an overhead projector, and why it is
+desirable to keep the room at
+a comfortable temperature.
+
+而『虛假的』課程則是關於方法的課程。
+這類課程最大的抱負
+僅僅是指出如何撰寫授課計畫，
+何時使用吊掛式投影機，
+以及為何應該將教室的溫度保持在舒適的範圍內。
+因此，它們總是被人嘲笑想法空泛。
+
+(The educationists have got what they
+deserve on this one. Since they have
+saddled themselves with a trivial
+definition of "method,"
+what they have been able to do
+in their courses has wavered
+from embarrassing to shocking.
+The professors of the liberal
+arts have, so far, escaped the
+censure and ridicule _they_
+deserve for not having noticed
+that a "discipline" or a
+"subject" is a way of knowing
+something---in other words,
+a method---and that, therefore,
+their courses are methods courses.)
+
+<div style="color: red">
+I think that "in other words, a method" may be
+"in other words, a content."
+</div><br />
+
+（在這件事上，教育家是自作自受。
+由於他們滿足於用最膚淺的定義來詮釋什麼是『方法』，
+一直以來，他們在課堂中所能做的
+總是擺盪在陳腔濫調（局促）及異想天開（過份）兩種情況。
+博雅教育的教授忽略以『學科』或『主題』---換言之，
+內容---做為了解事物的途徑，
+因此，他們的課程同樣為關於方法的課程。
+不同的是，他們至今仍得以倖免於這些應得的指責及嘲笑。）
+
+
+---
+"The medium is the message" implies
+that the invention of a dichotomy
+between content and method is both
+naïve and dangerous. _It implies
+that the critical content of
+any learning experience is the
+method or process through which
+the learning occurs._
+Almost any sensible parent knows
+this, as does any effective top
+sergeant.
+It is not what you say to people
+that counts; it is what you have
+them _do_.
+
+『媒介即訊息』暗示著，發明【內容/方法】
+這樣分割的不但天真而且危險。
+它也暗示，促使學習行為發生的方法或是過程
+才是學習經驗中最關鍵的內容。
+幾乎任何明理的父母或成功的士官都了解，
+影響人們的關鍵並非在於你對他們說了什麼，
+而是你讓他們做了什麼。
+
+If most teachers have not yet
+grasped this idea, it is not
+for lack of evidence.
+It may, however, be due to their
+failure to look in the direction
+where the evidence can be seen.
+In order to understand what kinds
+of behaviors classrooms promote,
+one must become accustomed to
+observing what, in fact, students
+actually _do_ in them.
+
+假使大多數的老師尚未領悟這個想法，
+原因不在於缺乏相關的證據。
+這反而可能是因為他們沒有把注意力放在證據出現之處。
+要了解教室促進何種行為，
+一個人必須習慣去觀察學生實際上都在教室裡做些什麼。
+
+What students do in the classroom
+is what they learn
+(as Dewey would say),
+and what they learn to do is
+the classroom's message
+(as McLuhan would say).
+Now, what is it that students _do_
+in the classroom?
+Well, mostly, they sit and listen
+to the teacher.
+Mostly, they are required to believe
+in authorities, or at least pretend
+to such belief when they take tests.
+Mostly, they are required to
+_remember_.
+
+學生在教室裡做的，就是他們所學的（就如 Deway 會說的），
+而他們學習做的，就是教室本身的訊息
+（就如 McLuhan 會說的）。
+那麼，學生在都在教室裡做些什麼呢？
+大多時候，他們待在座位上聽老師講課。
+大多時候，他們被要求相信權威，
+至少在考試的當下裝作相信。
+大多數時候，他們被要求記住內容。
+
+They are almost never required to
+make observations, formulate
+definitions, or perform any
+intellectual operations that go
+beyond repeating what someone else
+says is true.
+They are rarely encouraged to ask
+substantive questions,
+although they are permitted to ask
+about administrative and
+technical details.
+(How long should the paper be?
+Does spelling count?
+When is the assignment due?)
+
+他們幾乎不需要去觀察，不需要去構思定義，
+不需要任何『複誦他人宣稱的事實』之外的腦力行為。
+他們很少被鼓勵提出實質的問題，
+雖然他們被允許提問有關行政上或是技術上的細節。
+（書面報告應該多長？拼寫算分嗎？報告何時繳交？）
+
+It is practically unheard of
+for students to play any role
+in determining what problems
+are worth studying or what
+procedures of inquiry ought to
+be used.
+Examine the types of questions
+teachers ask in classroom,
+and you will find that most
+of them are what might technically
+be called "convergent questions,"
+but which might more simply be
+called "Guess what I'm thinking"
+questions.
+
+關於決定什麼問題值得學習
+或是該透過什麼樣的程序進行調查，
+幾乎從未聽說學生扮演過任何角色。
+仔細檢查老師在課堂上提出問題的類型，
+你會發現它們大多數都是專業術語中的『收歛問題』。
+但更淺白地說，它們都可以被稱作
+『猜猜我在想什麼』問題。
+
+Here are a few that will sound
+familiar:
+
+> What is a noun?
+> 
+> What were the three causes of
+> the Civil War?
+>
+> What is the principal river of
+> Uruguay?
+> 
+> What is the definition of a
+> nonrestrictive clause?
+>
+> What is the real meaning of
+> this poem?
+>
+> How many sets of chromosomes
+> do human beings have?
+> 
+> Why did Brutus betray Caesar?
+
+這裡是一些你可能會感到熟悉的例子：
+
+> 名詞是什麼？
+>
+> 引發美國南北戰爭的原因有哪三個？
+>
+> 哪一條河是烏拉圭的主要河流？
+>
+> 非限定子句的定義是什麼？
+>
+> 這首詩真正的意涵是什麼？
+>
+> 人類有幾對染色體？
+>
+> 為什麼布魯圖斯背叛了凱撒？
+
+
+---
+So, what students mostly do in
+class is guess what the teacher
+wants them to say.
+Constantly, they must try to
+supply "The Right Answer."
+It does not seem to matter
+if the subject is English
+or history or science;
+mostly, students _do_ the same thing.
+
+因此，學生在課堂上做的大多是
+猜測老師想要他們說些什麼。
+他們總是得提供『正確答案』。
+無論科目是英文、歷史或科學，
+大多情況，學生都在做相同的事。
+
+And since it is indisputably
+(if not publicly)
+recognized that the ostensible
+"content" of such courses is
+rarely remembered beyond the
+last quiz (in which you are
+required to remember only
+65 percent of what you were told),
+it is safe to say that just
+about the _only_ learning
+that occurs in classrooms is
+that which is communicated by
+the structure of the classroom itself.
+
+毫無爭議地（儘管也許是非公開地），
+學生對這些課程表面上的『內容』的記憶，
+很少能保留到最後一次測驗之後
+（你可能只需要記得百分之六十五的內容就足以應付考試）。
+因此，我們可以十拿九穩地說，
+教室中唯一存在的學習是
+由課堂結構傳遞的。
+
+What are these learnings?
+What are these messages?
+Here are a few among many,
+none of which you will ever
+find officially listed among
+the aims of teachers:
+
+這些是什麼樣的學習？
+它們又透露出什麼樣的訊息？
+這裡我們舉出其中一部分，
+即便它們從不會正式列在授課目標中。
+
+> Passive acceptance is a more
+> desirable response to ideas
+> than active criticism.
+>
+> 相較主動批判，被動接受是對想法更理想的回應方式。
+>
+> Discovering knowledge is beyond
+> the power of students and is,
+> in any case, none of their
+> business.
+>
+> 知識的探索不在學生的能力範圍內，
+> 反正這也不是他們的本分。
+>
+> Recall is the highest form of
+> intellectual achievement,
+> and the collection of unrelated
+> "facts" is the goal of education.
+>
+> 記憶力是聰明才智的最高表現，
+> 而教育的目的是讓學生記住一堆毫無關聯的『事實』。
+>
+> The voice of authority is to
+> be trusted and valued more than
+> independent judgment.
+>
+> 相較個人的判斷，更應該相信並重視權威所說的。
+>
+> One's own ideas and those of
+> one's classmates are inconsequential.
+>
+> 個人和同儕的想法是微不足道的。
+>
+> Feelings are irrelevant in
+> education.
+>
+> 感受、情緒和教育毫無關係。
+>
+> There is always a single,
+> unambiguous Right Answer to
+> a question.
+>
+> 任何問題皆有單一而且明確的正確答案。
+>
+> English is not History and
+> History is not Science and
+> Science is not Art and
+> Art is not Music, and Art and
+> Music are minor subjects and
+> English, History and Science
+> major subjects, and a subject
+> is something you "take" and,
+> when you have taken it,
+> you have "had" it, and if
+> you have "had" it, you are immune
+> and need not take it again.
+> (The Vaccination Theory of
+> Education?)
+>
+> 英文不是歷史。歷史不是科學。
+> 科學不是藝術。藝術不是音樂。
+> 藝術和音樂是次要科目。
+> 英文、歷史和科學是主要科目。
+> 科目是可以『取得』的東西。
+> 當你通過一門科目，你就擁有了它。
+> 當你擁有了它，你就對它免疫，
+> 而且不需要再次修習這門科目。
+> (教育的免疫理論？)
+
+Each of these learnings is expressed
+in specific behaviors that are on
+constant display throughout our culture.
+Take for example, the message
+that recall---particularly the
+recall of random facts---is
+the highest form of intellectual
+achievement.
+This belief explains the enormous
+popularity of quiz shows,
+the genuine admiration given by
+audiences to contestants who in
+30 seconds can name the concert
+halls in which each of Beethoven's
+symphonies had its first public
+performance.
+
+這裡列舉的每一項學習都反映出我們文化中
+某些不斷出現的行為。
+以『記憶力是聰明才智的最高表現，
+特別是記住隨機事實的能力』
+這個訊息為例。
+這項信念解釋了為何機智問答節目能大受歡迎。
+在這類節目中，能在三十秒內列出
+貝多芬每一首交響曲
+首次公演演奏廳的參賽者將會得到
+觀眾發自內心的讚賞。
+
+How else explain the great delight
+so many take in playing Trivia?
+Is there a man more prized among
+men than he who can settle a
+baseball dispute by identifying
+without equivocation the winner
+of the National League RBI title
+in 1943? (Bill "Swish" Nicholson.)
+
+不然我們還能如何解釋許多人從軼聞競賽中獲得的喜悅？
+當一個人可以毫不含糊地指出
+『哪位職棒選手贏得一九四三年國家聯盟打點王頭銜』
+來解決一項關於棒球的爭論，
+有誰能比他更能受到眾人重視？
+(這位職棒選手是 Bill "Swish" Nicholson。)
+
+---
+Recently we attended a party at
+which the game Trivia was played.
+One young man sat sullen and
+silent through several rounds,
+perhaps thinking that nothing
+could be more dull.
+At some point, the question arose,
+"What were the names of the actor
+and actress who starred in
+_Mr. First Nighter_?"
+
+最近，在我們參加的一場聚會中就舉辦了軼聞競賽。
+一個年輕人繃著臉、沈默地坐了數個回合，
+心裡也許想著沒有比這更無聊的事了。
+某一刻，問題出現了：
+『哪些演員曾在 Mr. First Nighter 演出？
+請列舉出他們的名字。』
+
+From somewhere deep within
+him an answer formed, and quite
+astonished himself, and everyone
+else, by blurting it out.
+(Les Tremaine and Barbara Luddy.)
+For several moments afterward,
+he could not conceal his delight.
+He was in the fifth grade again,
+and the question might have been,
+"What is the principal river of Uruguay"?
+He had supplied the answer,
+and faster than anyone else.
+And that is good, as every
+classroom environment he'd ever
+been in had taught him.
+
+令他自己和眾人都驚訝不已的是，
+年輕人脫口而出某個從心靈深處浮現的答案。
+（Les Tremaine 和 Barbara Luddy）
+片刻之後，他流露出感受到的喜悅。
+他又一次回到了小學五年級，
+面對『哪一條河是烏拉圭的主要河流？』諸如此類的問題。
+他比其它人都更迅速地給出了答案。
+這是值得肯定的，
+就如同任何他待過的教室環境教的那樣。
+
+
+---
+Watch a man---say,
+a politician---being interviewed
+on television, and you are
+observing a demonstration of
+what both he and his interrogators
+learned in school:
+all questions have answers,
+and it is a good thing to give
+an answer even if there is none
+to give, even if you don't
+understand the question,
+even if the question contains
+erroneous assumptions,
+even if you are ignorant of
+the facts required to answer.
+
+看一個人---比如政治人物---在電視上接受訪談，
+你觀察到的其實就是採訪者和採訪對象
+對他們在學校所學的示範：
+所有問題都有答案，而給出答案是值得肯定的，
+即便根本沒有什麼答案好給，
+即便你不了解問題，
+即便問題隱含著錯誤的假設，
+即便你對回答問題必需的事實一無所知。
+
+Have you ever heard a man being
+interviewed say,
+"I don't have the faintest idea,"
+or "I don't know enough even to guess,"
+or "I have been asked that question
+before, but all my answers to it
+seem to be wrong?"
+One does not "blame" men,
+especially if they are politicians,
+for providing instant answer to
+all questions.
+The public requires that they do,
+since the public has learned
+that instant answer giving is
+the most important sign of an
+educated man.
+
+你可曾聽過受訪人說，『我一丁點想法都沒有』或
+『我所知道的程度還不足以做出猜測』或
+『有人問過我相同的問題，但我給出的答案似乎都是錯的？』
+沒有人會『責怪』一個人
+對所有的問題給出即刻的答案，
+特別這個人是政治人物時。
+群眾要求他這麼做，
+因為按他們所學，
+即刻回答是學識涵養的標誌。
+
+
+---
+What all of us have learned
+(and how difficult it is to
+unlearn it!) is that it is not
+important that our utterances
+satisfy the demands of the question
+(or of reality), but that
+they satisfy the demands of the
+classroom environment.
+
+我們所有人都學會(而且要忘掉是如此之難)：
+重點不在於我們口中說的是否滿足問題(或現實)的需求；
+重點在於它是否滿足教室環境的需求。
+
+Teacher asks.
+Students answers.
+Have you ever heard of a student
+who replied to a question,
+"Does _anyone_ know the answer
+to that question?" or
+"I don't understand what I
+would have to do in order to
+find an answer," or "I have
+been asked that question before
+and, frankly, I've never understood
+what it meant"?
+
+老師問，學生答。
+你可曾聽過學生這樣回應問題：
+『有「任何人」知道這個問題的答案嗎？』或
+『我不明白我該做些什麼來得到答案，』或
+『我曾經被問過相同的問題。
+坦白說，我從未了解這個問題的意涵』？
+
+Such behavior would invariably
+result in some form of penalty
+and is, of course, scrupulously
+avoided, except by "wise guys."
+Thus, students learn not to value it.
+They get the message.
+And yet few teachers consciously
+articulate such a message.
+It is not part of the "content"
+of their instruction.
+No teacher ever said: "Don't
+value uncertainty and tentativeness.
+Don't question questions.
+Above all, don't think."
+
+這類行為一律導致某種形式的懲罰。
+學生理所當然會謹慎地避開---除了
+一些『有智慧的傢伙』外。
+於是，學生學會不去評斷問題的價值。
+儘管只有極少數的老師會刻意表述這類訊息。
+他們仍收到這樣的訊息。
+這並非授課『內容』的一部分。
+老師從不會說：『別重視不確定的事物。
+別重視嘗試性的東西。
+別質疑問題。最重要地，別思考。』
+
+The message is communicated
+quietly, insidiously,
+relentlessly, and effectively
+through the structure of the
+classroom: through the role of
+the teacher, the role of the student,
+the rules of their verbal game,
+the rights that are assigned,
+the arrangements made for
+communication, the "doings"
+that are praised or censured.
+In other words, the medium is
+the message.
+
+但這樣的訊息悄悄地、
+偷偷地，但不間斷地而且有效地
+透過教室的結構傳遞：
+透過老師的角色、
+透過學生的角色、
+透過他們之間語言遊戲的規則、
+透過他們被賦與的權利、
+透過對溝通方式的安排、
+透過那些被獎勵與被譴責的『行為』。
+換言之，媒介即訊息。
+
+
+---
+Have you ever heard of a student
+taking notes on the remarks of
+another student?  Probably not.
+Because the organization of the
+classroom makes it clear that
+what students say is not the
+"content" of instruction.
+Therefore, it will not be included
+on tests. Therefore, they can
+ignore it.
+
+你可曾聽過學生為同儕做出的評論寫下筆記？
+大概不曾。因為教室的組織方式清楚表明，
+學生的發言不構成上課的『內容』。
+因此，這些東西並不會在考試的範圍內。
+也因此，學生們可以忽略它們。
+
+
+---
+Have you ever heard of a student
+indicating an interest in how a
+textbook writer arrived at his
+conclusion?  Rarely, we would guess.
+Most students seem unaware that
+textbooks are written by human
+beings.  Besides, the classroom
+structure does not suggest that
+the processes of inquiry are of
+any importance.
+
+你可曾聽過學生表示他對課本作者如何得出書上
+的結論感到興趣？
+我們可以猜測這樣的情況極少發生。
+大多數學生似乎沒有意識到課本是人寫的。
+此外，教室的結構也不會去暗示調查的過程是重要的。
+
+
+---
+Have you ever heard of a student
+suggesting a more useful definition
+of something that the teacher has
+already defined?
+Or of a student who asked,
+"Whose facts are those?"
+Or of a student who asked,
+"What is a fact?"
+Or of a student who asked,
+"Why are we doing this work?"
+
+你可曾聽過有學生就老師已經定義的東西
+提出一個更有用的定義？
+或是有學生問：『那些是誰的事實？』
+或是有學生問：『什麼是事實？』
+或是有學生問：『為什麼我們做這些工作？』
+
+
+---
+Now, if you reflect on the fact
+that most classroom environments
+are managed so that such questions
+as these will not be asked,
+you can become very depressed.
+Consider, for example, where
+"knowledge" comes from.
+It isn't just _there_ in a book,
+waiting for someone to come along
+and "learn" it.
+Knowledge is produced in response
+to questions.
+And new knowledge results from
+the asking of new questions;
+quite often new questions about
+old questions.
+
+大多數教室環境被控制成學生不會提問這類問題。
+如果反思上面這項事實，你大概會感到相當沮喪。
+讓我們思考『知識』從何而來。
+它並非單純地寫在書裡等著某人學習。
+知識的產生是來自對問題的回應。
+而新知識是提出新問題的結果，
+並且常常是針對舊有問題的新問題。
+
+Here is the point: _Once you have
+learned how to ask
+questions---relevant and
+appropriate and substantial
+questions---you have learned
+how to learn and no one can
+keep you from learning whatever
+you want or need to know._
+Let us remind you, for a moment,
+of the process that characterizes
+school environments: what
+students are restricted to
+(solely and even vengefully)
+is the process of memorizing
+(partially and temporarily)
+somebody else's answers to
+somebody else's questions.
+It is staggering to consider
+the implications of this fact.
+
+重點在於：__一但你學會如何問問題---相關、適當、
+實質的問題---你就學會了如何學習，
+而且沒有人能阻止你學習任何你想知道的東西。__
+此刻，讓我們提醒你學校環境是由什麼樣的過程所刻劃：
+學生被限制在一個（不完全且臨時的）記憶過程中。
+他們得記住『某些人的回答』；
+這些回答針對的是『另一些人的提問』。
+考慮到這項事實背後的意涵是多麼令人震驚。
+
+The most important intellectual
+ability man has yet developed---the
+art and science of asking
+questions---is not taught in
+school!
+Moreover, it is _not_ "taught"
+in the most devastating way possible:
+by arranging the environment
+so that significant question
+asking is not valued.
+
+學校並沒有著力於一個人最重要且有待發展的智識能力---問
+問題的藝術及科學！
+更糟的是，這件事以最嚴重的方式被忽略了：
+環境的安排造成重要問題的提問不被重視。
+
+It is doubtful if you can think
+of many schools that include
+question asking, or methods of
+inquiry, as part of their
+curriculum.
+But even if you knew a hundred
+that did, there would be little
+cause for celebration unless
+the classrooms were arranged so
+that students could _do_
+question asking; not talk about it,
+read about it, be told about it.
+Asking questions is behavior.
+If you don't do it, you don't
+learn it.
+It really is as simple as that.
+
+你大概找不到許多學校在其課程規劃
+中包含提問方法及調查方法。
+即便你真的知道有一百間學校這樣做，
+這也不是什麼值得慶祝的理由；
+除非教室被安排成讓學生能夠真的去問問題，
+而不僅僅是討論、閱讀、或是被告知關於提問的知識。
+問問題是種行為。如果你不身體力行，你不可能學得會。
+事情就是這麼簡單。
+
+
+---
+If you go through the daily
+papers and listen attentively
+to the radio and watch television
+carefully, you should have no
+trouble perceiving that our
+political and social lives are
+conducted, to a very considerable
+extent, by people whose behaviors
+are almost precisely the behaviors
+their school environments
+demanded of them.
+
+如果你仔細閱讀每天的報紙，注意聆聽廣播，
+小心觀看電視節目，你應該不難發現，相當程度上
+我們的政治以及社會生活是由
+某類型的人所領導；這些人的共通點是：
+他們的行為舉止幾乎符合
+他們曾待過的學校環境的要求。
+
+We do not need to document
+for you the pervasiveness of
+dogmatism and intellectual timidity,
+the fear of change, the ruts and
+rots caused by the inability to
+ask new or basic questions and
+to work intelligently toward
+verifiable answers.
+
+我們甚至不需要為你記錄
+教條精神、思想上的怯懦、
+對改變的恐懼以及種種陳舊腐敗是多麼普遍。
+缺乏能力提出新的和基本的問題以及
+有智慧地尋求可驗証的答案正是這些現象的𦘦因。
+
+
+---
+The best illustration of this point
+can be found in the fact that those
+who _do_ question must drop out of
+the "Establishment."
+The price of maintaining membership
+in the Establishment is unquestioning
+acceptance of authority.
+
+下面的事實很好地描繪了以上的觀點：
+那些認真提出問題的人勢必得和現有建制分道揚鏢；
+相對地，對權威毫不懷疑地接受是
+在現有建制下保有一席之地必須付出的代價。
+
+
+---
+We are, of course, aware that there
+are more structures than the school
+affecting or controlling behavior.
+One must be careful in identifying
+and discriminating among the media
+which have taught us how to behave.
+
+當然，我們十分清楚學校之外還有許多體系影響和控制著
+人們的行為。我們必須小心地識別和區分這些不斷地
+教導我們行為舉止的媒介。
+
+They do not all convey the same
+messages.
+As McLuhan would want us to see,
+an automobile, a Xerox machine,
+and an electric light bulb are all
+learning environments.
+
+它們傳遞的訊息並不相同。
+如同麥克魯漢想要我們了解的，
+汽車、影印機和電燈泡皆為某種學習環境。
+
+So is our architecture, the
+A & P, and color TV.
+We are focusing on the school
+because it is capable of becoming
+the critical environment for
+promoting the beliefs and behaviors
+that are necessary to survival.
+We should like then to turn to
+a description of the type of
+learning environment which
+can best accomplish this.
+
+而我們的建築、連鎖企業(大西洋與太平洋茶葉公司)
+和彩色電視也是如此。
+我們把焦點放在學校的理由是：學校有能力成為
+促進生存必需的信念及行為的關鍵環境。
+因此，我們打算藉由
+『描述最有可能達成此一目標的學習環境』
+來實現這件事。

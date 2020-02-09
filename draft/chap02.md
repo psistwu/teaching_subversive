@@ -1,6 +1,7 @@
-# Teaching As a Subversive Activity
-
-## II. The Medium Is the Message, Of Course
+---
+title: The Medium Is the Message, of Course
+chapter: 2
+---
 One of the most dangerous men around at the
 moment---dangerous because
 he seems to be subverting traditional
@@ -81,7 +82,7 @@ he has rephrased,
 
 我們尤其受惠於麥克魯漢著名的格言：
 『媒介即訊息。』
-他以壓韻的修辭重新詮釋了杜威所相信的
+他以頭韻的修辭法重新詮釋了杜威相信的
 『所做即所學。』
 （他這麼做是為了強調這個想法的重要性，
 同時增加了趣味性及宣傳性）
@@ -127,8 +128,8 @@ you learn them.
 賦予的態度以及鼓勵的感受。
 這幾乎涵蓋了所有你學會怎麼理解、
 怎麼感受以及怎麼衡量事物的方式。
-你會去學這些東西是因為你處的環境
-允許、鼓勵或要求你去學它們。
+你學習這些東西是因為你處的環境
+允許、鼓勵甚至要求你去學它們。
 
 
 ---
@@ -149,8 +150,8 @@ our senses and attitudes?"
 
 對麥克魯漢來說，他碰上最大的困難似乎是說服聽眾：
 電視機、報紙、汽車和影印機
-都能符合上面提到『環境』的定義。
-即便聽眾暫且相信並隨他深入探討，
+皆符合上面提到『環境』的定義。
+即便聽眾暫且相信這件事並隨他深入探討，
 麥克魯漢仍得花上相當的力氣來說服他們：
 需要關切的問題不是『電視在播些什麼？』或
 『報紙在寫些什麼？』而是
@@ -173,7 +174,7 @@ does not fit into traditional categories.
 
 有人可能會認為，說服聽眾相信
 『教室是一種環境，而它的組織方式肩負了
-人們可以從中學會哪些東西的責任，』
+人們可以從中習得哪些東西的責任，』
 要簡單得多。奇怪的是，事實並非如此。
 關於教育的討論，尤其在知識份子之間，總是囿於以下的成見：
 『傳統的教育方式適用於幾乎任何想法的教授與學習。』
@@ -191,12 +192,12 @@ it is what the students are there to "get";
 it is what they are supposed to learn;
 it is what is "covered."
 
-我們用下面的概念作為上面這句話的主要例子：
+我們用以下的概念作為上面這句話的主要例子：
 課堂主要是由內容和方法兩個部分組成。
-無論是重要的還是瑣碎的，
-內容一律視為課程的本質；
-它是學生想從課堂中得到，
-學生應該學習，以及課程涵蓋的。
+也許瑣碎，也許重要，
+內容一律被視為課程的本質；
+它是學生想要從課堂中得到，
+學生應該要學習的，以及課程涵蓋的東西。
 
 Content, as any syllabus proves,
 exists independently of and prior to the
@@ -215,15 +216,15 @@ which is to say, worthy of comment.
 
 如同任何課程大綱證實，
 內容是獨立且優先於學生的存在，
-同時它不在乎透過什麼樣的媒介傳播。
+而且它不在乎透過什麼樣的媒介傳播。
 與此相對，
-方法僅僅是傳遞內容的手段，
-不論是有創意的還是枯燥的。
-方法自身不含內容。
+不論是有創意的還是枯燥的，
+方法僅僅是傳遞內容的手段。
+它不具有自身的內容。
 即便它能令學生感到興𡚒或無聊，
-它都不攜帶訊息---就算有，
-那也不會是有人想從大學理事會打聽的東西。
-換言之，方法本身沒有任何值得討論的訊息。
+它都不帶有訊息---就算有，
+那也不會是任何人想從大學理事會打聽的東西。
+換言之，方法本身不帶有任何值得討論的訊息。
 
 
 ---
@@ -240,9 +241,9 @@ maintained in the schools.
 
 就我們所知，美國所有的教育學院和講師培訓機構
 的組織方式都是建立在前述的分割上。
-其中，傳達給培訓教師最重要的訊息可能是：
-這樣分割是真實的、有用的以及迫切的。
-此外，學校應該強調這個看法。
+這當中傳達給培訓教師最重要的訊息可能是：
+這樣的分割是真實的、有用的和迫切的，同時
+應當在學校中被強調。
 
 A secondary message is that, while
 the "content" and "method" are
@@ -253,7 +254,7 @@ the kind of which James Bryant Conant
 is so fond: The Heritage of Greece and Rome,
 Calculus, Elizabethan Drama, The Civil War.
 
-第二個訊息是：當『內容』和『方法』分割的同時，
+第二個訊息是：當內容和方法分割的同時，
 兩者的地位並不平等。
 每個人都知道
 『真正的』課程是關於內容的課程，
@@ -275,7 +276,7 @@ a comfortable temperature.
 僅僅是指出如何撰寫授課計畫，
 何時使用吊掛式投影機，
 以及為何應該將教室的溫度保持在舒適的範圍內。
-因此，關於方法的課程總是被人嘲笑想法空泛。
+因此，它們總是被人嘲笑想法空泛。
 
 (The educationists have got what they
 deserve on this one. Since they have
@@ -295,7 +296,7 @@ a method---and that, therefore,
 their courses are methods courses.)
 
 <div style="color: red">
-I think that "in other words, a method" should be
+I think that "in other words, a method" may be
 "in other words, a content."
 </div><br />
 
@@ -303,9 +304,10 @@ I think that "in other words, a method" should be
 由於他們滿足於用最膚淺的定義來詮釋什麼是『方法』，
 一直以來，他們在課堂中所能做的
 總是擺盪在陳腔濫調（局促）及異想天開（過份）兩種情況。
-博雅教育的教授忽略了以『學科』或『主題』---換言之，內容---做為
-了解事物的途徑，因此，他們的課程同樣為關於方法的課程。
-然而，他們至今仍得以倖免於上面提到的指責及嘲笑。）
+博雅教育的教授忽略以『學科』或『主題』---換言之，
+內容---做為了解事物的途徑，
+因此，他們的課程同樣為關於方法的課程。
+不同的是，他們至今仍得以倖免於這些應得的指責及嘲笑。）
 
 
 ---
@@ -324,11 +326,11 @@ It is not what you say to people
 that counts; it is what you have
 them _do_.
 
-『媒介即訊息』暗示著，創造【內容/方法】
-這種分割方式不但天真而且危險。
+『媒介即訊息』暗示著，發明【內容/方法】
+這樣分割的不但天真而且危險。
 它也暗示，促使學習行為發生的方法或是過程
 才是學習經驗中最關鍵的內容。
-幾乎任何明理的父母抑或成功的士官都了解，
+幾乎任何明理的父母或成功的士官都了解，
 影響人們的關鍵並非在於你對他們說了什麼，
 而是你讓他們做了什麼。
 
@@ -373,7 +375,7 @@ _remember_.
 大多時候，他們待在座位上聽老師講課。
 大多時候，他們被要求相信權威，
 至少在考試的當下裝作相信。
-大多數時候，他們被要求記憶內容。
+大多數時候，他們被要求記住內容。
 
 They are almost never required to
 make observations, formulate
@@ -391,9 +393,9 @@ Does spelling count?
 When is the assignment due?)
 
 他們幾乎不需要去觀察，不需要去構思定義，
-不需要任何『複誦他人宣稱的事實』之上的腦力行為。
+不需要任何『複誦他人宣稱的事實』之外的腦力行為。
 他們很少被鼓勵提出實質的問題，
-雖然他們被允許提問有關管理上或是技術上的細節。
+雖然他們被允許提問有關行政上或是技術上的細節。
 （書面報告應該多長？拼寫算分嗎？報告何時繳交？）
 
 It is practically unheard of
@@ -412,7 +414,7 @@ called "Guess what I'm thinking"
 questions.
 
 關於決定什麼問題值得學習
-或是該使用什麼樣的探索流程，
+或是該透過什麼樣的程序進行調查，
 幾乎從未聽說學生扮演過任何角色。
 仔細檢查老師在課堂上提出問題的類型，
 你會發現它們大多數都是專業術語中的『收歛問題』。
@@ -473,7 +475,7 @@ mostly, students _do_ the same thing.
 猜測老師想要他們說些什麼。
 他們總是得提供『正確答案』。
 無論科目是英文、歷史或科學，
-學生都在做一樣的事。
+大多情況，學生都在做相同的事。
 
 And since it is indisputably
 (if not publicly)
@@ -489,13 +491,13 @@ that occurs in classrooms is
 that which is communicated by
 the structure of the classroom itself.
 
-毫無爭議地（儘管可能是非公開地），
-學生對這些課程表面上『內容』的記憶，
+毫無爭議地（儘管也許是非公開地），
+學生對這些課程表面上的『內容』的記憶，
 很少能保留到最後一次測驗之後
-（你只需要記得百分之六十五的內容就足以應付考試）。
+（你可能只需要記得百分之六十五的內容就足以應付考試）。
 因此，我們可以十拿九穩地說，
 教室中唯一存在的學習是
-由課堂結構傳達的。
+由課堂結構傳遞的。
 
 What are these learnings?
 What are these messages?
@@ -505,9 +507,9 @@ find officially listed among
 the aims of teachers:
 
 這些是什麼樣的學習？
-它傳遞了什麼樣的訊息？
-這裡我們列出其中一部分，
-雖然它們從不會正式列在授課目標之中。
+它們又透露出什麼樣的訊息？
+這裡我們舉出其中一部分，
+即便它們從不會正式列在授課目標中。
 
 > Passive acceptance is a more
 > desirable response to ideas
@@ -520,7 +522,7 @@ the aims of teachers:
 > in any case, none of their
 > business.
 >
-> 探索知識不在學生的能力範圍內，
+> 知識的探索不在學生的能力範圍內，
 > 反正這也不是他們的本分。
 >
 > Recall is the highest form of
@@ -528,7 +530,7 @@ the aims of teachers:
 > and the collection of unrelated
 > "facts" is the goal of education.
 >
-> 記憶是才智成就的最高表現，
+> 記憶力是聰明才智的最高表現，
 > 而教育的目的是讓學生記住一堆毫無關聯的『事實』。
 >
 > The voice of authority is to
@@ -545,13 +547,13 @@ the aims of teachers:
 > Feelings are irrelevant in
 > education.
 >
-> 感受、情緒和教育毫無關連。
+> 感受、情緒和教育毫無關係。
 >
 > There is always a single,
 > unambiguous Right Answer to
 > a question.
 >
-> 任何問題皆有單一、明確的正確答案。
+> 任何問題皆有單一而且明確的正確答案。
 >
 > English is not History and
 > History is not Science and
@@ -595,11 +597,12 @@ halls in which each of Beethoven's
 symphonies had its first public
 performance.
 
-這裡提到的每一項學習都反映出我們文化中某些不斷出現的行為。
-以『記憶是才智成就的最高表現，
+這裡列舉的每一項學習都反映出我們文化中
+某些不斷出現的行為。
+以『記憶力是聰明才智的最高表現，
 特別是記住隨機事實的能力』
 這個訊息為例。
-這樣的信念解釋了為何機智問答節目能大受歡迎。
+這項信念解釋了為何機智問答節目能大受歡迎。
 在這類節目中，能在三十秒內列出
 貝多芬每一首交響曲
 首次公演演奏廳的參賽者將會得到
@@ -614,7 +617,7 @@ without equivocation the winner
 of the National League RBI title
 in 1943? (Bill "Swish" Nicholson.)
 
-不然我們還能如何解釋為何這麼多人從軼聞競賽中獲得的喜悅？
+不然我們還能如何解釋許多人從軼聞競賽中獲得的喜悅？
 當一個人可以毫不含糊地指出
 『哪位職棒選手贏得一九四三年國家聯盟打點王頭銜』
 來解決一項關於棒球的爭論，
@@ -656,15 +659,15 @@ And that is good, as every
 classroom environment he'd ever
 been in had taught him.
 
-令他和眾人都驚訝不已的是，
+令他自己和眾人都驚訝不已的是，
 年輕人脫口而出某個從心靈深處浮現的答案。
 （Les Tremaine 和 Barbara Luddy）
-片刻之後，他再也無法掩飾感受到的喜悅。
-再一次，他回到小學五年級的學生時代，
+片刻之後，他流露出感受到的喜悅。
+他又一次回到了小學五年級，
 面對『哪一條河是烏拉圭的主要河流？』諸如此類的問題。
-他比其它人都更迅速地提出了答案。
+他比其它人都更迅速地給出了答案。
 這是值得肯定的，
-就如同任何他待過的教室環境教給他的。
+就如同任何他待過的教室環境教的那樣。
 
 
 ---
@@ -684,9 +687,10 @@ erroneous assumptions,
 even if you are ignorant of
 the facts required to answer.
 
-觀看一個人---比如政治人物---在電視上接受訪談，
-你會觀察到採訪者和採訪對象同時示範了他們在學校所學：
-所有問題都有答案，而說出答案是值得肯定的，
+看一個人---比如政治人物---在電視上接受訪談，
+你觀察到的其實就是採訪者和採訪對象
+對他們在學校所學的示範：
+所有問題都有答案，而給出答案是值得肯定的，
 即便根本沒有什麼答案好給，
 即便你不了解問題，
 即便問題隱含著錯誤的假設，
@@ -731,8 +735,8 @@ they satisfy the demands of the
 classroom environment.
 
 我們所有人都學會(而且要忘掉是如此之難)：
-重點不在於我們口中說的是否滿足問題(或現實)的需求，
-而在於它是否滿足教室環境的需求。
+重點不在於我們口中說的是否滿足問題(或現實)的需求；
+重點在於它是否滿足教室環境的需求。
 
 Teacher asks.
 Students answers.
@@ -769,7 +773,7 @@ value uncertainty and tentativeness.
 Don't question questions.
 Above all, don't think."
 
-諸如此類的行為一律導致某種形式的懲罰。
+這類行為一律導致某種形式的懲罰。
 學生理所當然會謹慎地避開---除了
 一些『有智慧的傢伙』外。
 於是，學生學會不去評斷問題的價值。
@@ -794,7 +798,8 @@ that are praised or censured.
 In other words, the medium is
 the message.
 
-但這樣的訊息悄悄地、偷偷地、不間斷地以及有效地
+但這樣的訊息悄悄地、
+偷偷地，但不間斷地而且有效地
 透過教室的結構傳遞：
 透過老師的角色、
 透過學生的角色、
@@ -836,10 +841,11 @@ structure does not suggest that
 the processes of inquiry are of
 any importance.
 
-你可曾聽過學生表示他對課本作者如何得出書上的結論感到興趣？
+你可曾聽過學生表示他對課本作者如何得出書上
+的結論感到興趣？
 我們可以猜測這樣的情況極少發生。
-大多數學生似乎沒有察覺課本是人寫的。
-此外，教室的結構也沒有建議探查程序是重要的。
+大多數學生似乎沒有意識到課本是人寫的。
+此外，教室的結構也不會去暗示調查的過程是重要的。
 
 
 ---
@@ -880,12 +886,12 @@ quite often new questions about
 old questions.
 
 大多數教室環境被控制成學生不會提問這類問題。
-如果仔細思考上面這項事實，你大概會感到相當沮喪。
-讓我們考慮『知識』從何而來。
+如果反思上面這項事實，你大概會感到相當沮喪。
+讓我們思考『知識』從何而來。
 它並非單純地寫在書裡等著某人學習。
 知識的產生是來自對問題的回應。
-而新知識是提出新問題的結果；
-而且常常是針對舊有問題的新問題。
+而新知識是提出新問題的結果，
+並且常常是針對舊有問題的新問題。
 
 Here is the point: _Once you have
 learned how to ask
@@ -910,10 +916,10 @@ the implications of this fact.
 重點在於：__一但你學會如何問問題---相關、適當、
 實質的問題---你就學會了如何學習，
 而且沒有人能阻止你學習任何你想知道的東西。__
-此刻，讓我們提醒你什麼樣的過程刻劃了學校環境：
-學生被限制在一個記憶
-『某些人的答案』的過程中；而這些答案針對的是
-『另一些人的問題』。
+此刻，讓我們提醒你學校環境是由什麼樣的過程所刻劃：
+學生被限制在一個（不完全且臨時的）記憶過程中。
+他們得記住『某些人的回答』；
+這些回答針對的是『另一些人的提問』。
 考慮到這項事實背後的意涵是多麼令人震驚。
 
 The most important intellectual
@@ -927,10 +933,10 @@ by arranging the environment
 so that significant question
 asking is not valued.
 
-一個人有待發展最重要的智識能力---問問題的藝術及科學---學
-校並沒有教。
+學校並沒有著力於一個人最重要且有待發展的智識能力---問
+問題的藝術及科學！
 更糟的是，這件事以最嚴重的方式被忽略了：
-環境上的安排使得對重要問題的提問被忽視。
+環境的安排造成重要問題的提問不被重視。
 
 It is doubtful if you can think
 of many schools that include
@@ -950,10 +956,10 @@ learn it.
 It really is as simple as that.
 
 你大概找不到許多學校在其課程規劃
-中包含提問方法及探究方法。
+中包含提問方法及調查方法。
 即便你真的知道有一百間學校這樣做，
 這也不是什麼值得慶祝的理由；
-除非教室被安排成讓學生可以問問題的環境，
+除非教室被安排成讓學生能夠真的去問問題，
 而不僅僅是討論、閱讀、或是被告知關於提問的知識。
 問問題是種行為。如果你不身體力行，你不可能學得會。
 事情就是這麼簡單。
@@ -975,9 +981,9 @@ demanded of them.
 如果你仔細閱讀每天的報紙，注意聆聽廣播，
 小心觀看電視節目，你應該不難發現，相當程度上
 我們的政治以及社會生活是由
-某些類型的人所帶領；這些人之間的共通點是：
-他們的行為舉止幾乎符合他們曾待過的學校
-環境要求他們的。
+某類型的人所領導；這些人的共通點是：
+他們的行為舉止幾乎符合
+他們曾待過的學校環境的要求。
 
 We do not need to document
 for you the pervasiveness of
@@ -1004,10 +1010,10 @@ The price of maintaining membership
 in the Establishment is unquestioning
 acceptance of authority.
 
-下面的事實提供了此觀點最好的的例證：
+下面的事實很好地描繪了以上的觀點：
 那些認真提出問題的人勢必得和現有建制分道揚鏢；
 相對地，對權威毫不懷疑地接受是
-在現有建制保有一席之地必須付出的代價。
+在現有建制下保有一席之地必須付出的代價。
 
 
 ---
@@ -1018,9 +1024,9 @@ One must be careful in identifying
 and discriminating among the media
 which have taught us how to behave.
 
-當然我們十分清楚，學校之外還有許多體系影響和控制著
+當然，我們十分清楚學校之外還有許多體系影響和控制著
 人們的行為。我們必須小心地識別和區分這些不斷地
-指導我們行為舉止的媒介。
+教導我們行為舉止的媒介。
 
 They do not all convey the same
 messages.
@@ -1045,13 +1051,10 @@ a description of the type of
 learning environment which
 can best accomplish this.
 
-而我們的建築、連鎖企業(大西洋與太平洋茶葉公司)、
-彩色電視也是如此。
-我們把焦點放在學校的理由是，學校有能力成為
+而我們的建築、連鎖企業(大西洋與太平洋茶葉公司)
+和彩色電視也是如此。
+我們把焦點放在學校的理由是：學校有能力成為
 促進生存必需的信念及行為的關鍵環境。
-因此，我們想透過描述最能實現此一目標的學習環境
-來得到幫助。
-
-
-
-###### tags: `education` `translation`
+因此，我們打算藉由
+『描述最有可能達成此一目標的學習環境』
+來實現這件事。
