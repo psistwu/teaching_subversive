@@ -22,3 +22,5 @@ defaults:
 
 gems:
   - jekyll-roman
+
+theme: jekyll-theme-slate
