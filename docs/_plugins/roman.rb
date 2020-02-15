@@ -1,3 +1,6 @@
+# This module is originated in a GitHub reposotiory:
+# <https://github.com/paulrobertlloyd/jekyll-roman.git>
+
 module Jekyll
   module Roman
 
