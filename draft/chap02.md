@@ -1,7 +1,6 @@
----
-title: The Medium Is the Message, of Course
-chapter: 2
----
+# Teaching as A Subversive Activity 將教學做為一項顛覆性的活動
+
+## II. The Medium Is the Message, Of Course
 One of the most dangerous men around at the
 moment---dangerous because
 he seems to be subverting traditional
@@ -509,7 +508,7 @@ the aims of teachers:
 這些是什麼樣的學習？
 它們又透露出什麼樣的訊息？
 這裡我們舉出其中一部分，
-即便它們從不會正式列在授課目標中。
+而它們從不會正式列在授課目標中。
 
 > Passive acceptance is a more
 > desirable response to ideas
@@ -917,9 +916,8 @@ the implications of this fact.
 實質的問題---你就學會了如何學習，
 而且沒有人能阻止你學習任何你想知道的東西。__
 此刻，讓我們提醒你學校環境是由什麼樣的過程所刻劃：
-學生被限制在一個（不完全且臨時的）記憶過程中。
-他們得記住『某些人的回答』；
-這些回答針對的是『另一些人的提問』。
+學生被侷限在一個（不完全且臨時的）記憶過程中。
+他們得針對『某些人的問題』記住『另一些人的答案』。
 考慮到這項事實背後的意涵是多麼令人震驚。
 
 The most important intellectual
@@ -1058,3 +1056,8 @@ can best accomplish this.
 因此，我們打算藉由
 『描述最有可能達成此一目標的學習環境』
 來實現這件事。
+
+
+
+
+###### tags: `translation` `education`
